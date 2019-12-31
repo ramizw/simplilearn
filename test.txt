@@ -1,3 +1,7 @@
 abc
 
+<<<<<<< HEAD
 new channge
+=======
+i was here oh oh oh
+>>>>>>> d6de94f... commited on master
